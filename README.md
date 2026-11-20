@@ -18,7 +18,7 @@ mi toki pona e nimi jan tan toki Greek. (nasin kalama nasa pi toki Inli li weka 
 
 | nanpa | toki Inli | toki pona | pini |
 | --- | --- | --- | --- |
-| `01` | Road to Hell | | 43/105 |
+| `01` | Road to Hell | | 82/108 |
 | `02` | Any Way the Wind Blows | |  |
 | `03` | Come Home With Me | |  |
 | `04` | Wedding Song | | 41/57 |
