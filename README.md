@@ -18,7 +18,7 @@ mi toki pona e nimi jan tan toki Greek. (nasin kalama nasa pi toki Inli li weka 
 
 | nanpa | toki Inli | toki pona | pini |
 | --- | --- | --- | --- |
-| `01` | Road to Hell | | 82/108 |
+| `01` | Road to Hell | | 108/108 |
 | `02` | Any Way the Wind Blows | |  |
 | `03` | Come Home With Me | |  |
 | `04` | Wedding Song | | 41/57 |
@@ -57,3 +57,5 @@ mi toki pona e nimi jan tan toki Greek. (nasin kalama nasa pi toki Inli li weka 
 lipu mi li jo ala e ni: nasin toki. (jan li toki tawa jan seme, tan pilin seme?) mi poka pini la mi nasin e toki ale ni tawa lipu anu sitelen la mi o pana e ni.
 
 tenpo kama la mi wile kalama e ni. ken la mi wile e mu pi jan ante, ken la mi wile e mu mi taso. ken la mi ante e kule pi mu mi kepeken ilo. msx.
+
+lon la, nasin lawa, la mi ken ala pana e ni - mi jo/lawa ala e lipu Hadestown. ken la, pali mi li lili lon toki lili la, jan lawa li pilin ike ala :p. pali ale ni li tawa mi taso, ona li mani ala tawa mi, taso mi wile e ni: jan pi toki pona li ken lukin e ijo pona pi toki pona!
