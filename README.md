@@ -5,13 +5,13 @@
 mi toki pona e nimi jan tan toki Greek. (nasin kalama nasa pi toki Inli li weka la pona :p) nimi lawa li ken ante (tawa kule toki), taso, mute la, mi kepeken nimi "jan" tawa jan pi sewi ala li kepeken nimi "sewi" tawa jan sewi.
 
 - **Orpheus**: **jan Opeju** `[open. jo uta]`
-- **Eurydice**: **jan Eluteke** `[en lupa. tenpo. kepeken.]`\
+- **Eurydice**: **jan Eluteke** `[en luka. tenpo. ken.]`\
 *(mi la ni la kalama "te" li pona tawa kalama "si")*
 - **Persephone**: **sewi Pasepone** `[pan. seli. pona. nena.]`\
 *(mi kalama "pa" e ona tan ni: sewi [pan] li nimi pona musi.)*
 - **Hades**: **sewi Ate** `[anpa tenpo.]`
 - **Hermes**: **sewi Eme** `[esun meso.]`
-- **Fates**: **sewi Mola** `[moli. lawa.]`\
+- **Fates**: **sewi Mola** `[monsi. lawa.]`\
 *(nimi ni li pona ala tawa mi. ken la mi o ante. mi kama sona e nasin pona tan pali pi ante toki.)*
 
 ## nimi kalama
@@ -19,9 +19,9 @@ mi toki pona e nimi jan tan toki Greek. (nasin kalama nasa pi toki Inli li weka 
 | nanpa | toki Inli | toki pona | pini |
 | --- | --- | --- | --- |
 | `01` | Road to Hell | | 108/108 |
-| `02` | Any Way the Wind Blows | |  |
-| `03` | Come Home With Me | |  |
-| `04` | Wedding Song | | 41/57 |
+| `02` | Any Way the Wind Blows | | 8/67 |
+| `03` | Come Home With Me | | 0/45 |
+| `04` | Wedding Song | | 49/57 |
 | `05` | Epic I | |  |
 | `06` | Livin' it Up on Top | |  |
 | `07` | All I've Ever Known | |  |
