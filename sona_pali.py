@@ -17,7 +17,7 @@ for lipu in lipu_ale:
             mute_pali = len(pali) - 1
             mute_pini = sum([1 for i in pali if i[-2] != '\t']) - 1
 
-            sona[-2] = f" {mute_pini}/{mute_pali} "
+            sona[-2] = f" {mute_pini}/{mute_pali} ({int(100*mute_pini/mute_pali)}%)" 
 
             lipu_lawa[nanpa] = '|'.join(sona)
 
