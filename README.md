@@ -14,7 +14,7 @@ mi toki pona e nimi jan tan toki Greek. (nasin kalama nasa pi toki Inli li weka 
 *(mi kalama "pa" e ona tan ni: sewi [pan] li nimi pona musi.)*
 - **Hades**: **sewi Ate** `[anpa tenpo.]`
 - **Hermes**: **sewi Eme** `[esun meso.]`
-- **Fates**: **sewi Mola** `[monsi. lawa.]`\
+- **Fates**: **sewi Mola** `[monsi. lawa.]`
 
 ## nimi kalama
 
