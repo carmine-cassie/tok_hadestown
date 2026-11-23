@@ -1,5 +1,8 @@
-# toki kalama pi tomo Ate
-*(nimi ni li ken awen ante a.)*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="logo/logo.png">
+  <source media="(prefers-color-scheme: light)" srcset="logo/logo_pimeja.png">
+  <img src="logo/logo.png">
+</picture>
 
 ## nimi jan
 mi toki pona e nimi jan tan toki Greek. (nasin kalama nasa pi toki Inli li weka la pona :p) nimi lawa li ken ante (tawa kule toki), taso, mute la, mi kepeken nimi "jan" tawa jan pi sewi ala li kepeken nimi "sewi" tawa jan sewi.
@@ -20,7 +23,7 @@ mi toki pona e nimi jan tan toki Greek. (nasin kalama nasa pi toki Inli li weka 
 | --- | --- | --- | --- |
 | `01` | Road to Hell | | 108/108 (100%)|
 | `02` | Any Way the Wind Blows | | 35/67 (52%)|
-| `03` | Come Home With Me | | 38/45 (84%)|
+| `03` | Come Home With Me | | 39/45 (86%)|
 | `04` | Wedding Song | | 49/57 (85%)|
 | `05` | Epic I | |  |
 | `06` | Livin' it Up on Top | |  |
