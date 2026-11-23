@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="logo/logo.png">
   <source media="(prefers-color-scheme: light)" srcset="logo/logo_pimeja.png">
-  <img src="logo/logo.png">
+  <img src="logo/logo.png" alt="ma tomo pi sewi Ate">
 </picture>
 
 ## nimi jan
