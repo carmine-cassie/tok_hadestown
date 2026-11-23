@@ -1,7 +1,492 @@
 <!doctype html>
 
-<head> </head>
+<head>
+  <!-- Google Fonts for Noto Serif -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap"
+    rel="stylesheet"
+  />
+
+  <meta charset="utf-8" />
+
+  <style>
+    @font-face {
+      font-family: 'linjalaso';
+      src: url(/fonts/linja_laso_medium.otf);
+    }
+
+    :root {
+      --text: #111;
+      --faint: #555;
+      --light: #bbb;
+      --bg: #ffe;
+
+      background-color: var(--text);
+      color: var(--text);
+
+      font-size: 24px;
+    }
+
+    * {
+      margin: 0;
+    }
+
+    .paper {
+      max-width: 700px;
+      background-color: var(--bg);
+      margin: 0 auto;
+      padding-bottom: 50px;
+
+      background-image: url(/img/paper.jpg);
+      background-size: 700px;
+    }
+
+    .song {
+      padding: 10px 0;
+      padding-bottom: 75px;
+      overflow-x: scroll;
+    }
+
+    h1 {
+      font-weight: normal;
+      text-align: center;
+      margin-bottom: 15px;
+      font-size: 2.5em;
+      line-height: 80%;
+      font-family: 'linjalaso';
+    }
+
+    p {
+      max-width: 375px;
+      margin: 0 auto;
+      margin-bottom: 0.5em;
+      text-align: justify;
+      line-height: 120%;
+      font-size: 0.75em;
+      font-family: 'Noto Serif';
+    }
+
+    b {
+      font-weight: normal;
+      text-shadow:
+        0.07em 0.05em var(--light),
+        0.1em 0.075em var(--light),
+        0.14em 0.1em var(--light);
+    }
+
+    .poki-nimi {
+      display: flex;
+      max-width: 375px;
+      margin: 0 auto;
+      margin-top: 0.75em;
+      margin-bottom: 0em;
+
+      justify-content: space-between;
+
+      p {
+        margin: 0;
+      }
+    }
+
+    .nimi {
+      font-size: 0.6em;
+      color: var(--faint);
+      margin: 0 auto;
+
+      font-style: italic;
+    }
+
+    .inline-sp {
+      font-family: 'linjalaso';
+      line-height: 100%;
+      vertical-align: -0.05em;
+    }
+
+    .nimi-jan {
+      margin-bottom: 50px;
+      font-size: 0.8em;
+      h1 {
+        margin-bottom: 0.1em;
+      }
+      p {
+        text-align: center;
+        font-style: italic;
+
+        max-width: 500px;
+        span {
+          display: inline-block;
+          text-align: center;
+          width: 24%;
+        }
+
+        .inline-sp {
+          font-style: normal;
+        }
+      }
+    }
+
+    .lipu {
+      font-size: 0.7em;
+      margin: 1em auto;
+      color: var(--faint);
+
+      font-style: italic;
+      text-align: center;
+    }
+  </style>
+</head>
 
 <body>
-  <h1>hi!</h1>
+  <div class="paper">
+    <div style="padding: 50px 0">
+      <img
+        src="/logo/logo_pimeja.svg"
+        style="width: 60%; margin: 0 auto; display: block"
+      />
+    </div>
+
+    <div class="nimi-jan">
+      <h1>nimi jan</h1>
+      <p>
+        <span class="inline-sp">jan [open. jo uta]</span>
+        <span>jan Opeju</span>
+        <span>Ὀρφεύς</span>
+        <span>Orpheus</span>
+      </p>
+      <p>
+        <span class="inline-sp">jan [en luka. tenpo. ken.]</span>
+        <span>jan Eluteke</span>
+        <span>Εὐρυδίκη</span>
+        <span>Eurydice</span>
+      </p>
+      <p>
+        <span class="inline-sp">sewi [anpa tenpo.]</span>
+        <span>sewi Ate</span>
+        <span>ᾍδης</span>
+        <span>Hades</span>
+      </p>
+      <p>
+        <span class="inline-sp">sewi [pan. seli. pona. nena.]</span>
+        <span>sewi Pasepone</span>
+        <span>Περσεφόνη</span>
+        <span>Persephone</span>
+      </p>
+      <p>
+        <span class="inline-sp">sewi [esun meso.]</span>
+        <span>sewi Eme</span>
+        <span>Ἑρμῆς</span>
+        <span>Hermes</span>
+      </p>
+      <p>
+        <span class="inline-sp">sewi [monsi. lawa.]</span>
+        <span>sewi Mola</span>
+        <span>Μοῖραι</span>
+        <span>Fates</span>
+      </p>
+      <p>
+        <span class="inline-sp">jan pali</span>
+        <span>jan pali</span>
+        <span>χορός</span>
+        <span>Workers</span>
+      </p>
+    </div>
+
+    <div class="song">
+      <h1>nasin pi tawa moli</h1>
+
+      <div class="poki-nimi">
+        <p class="nimi">sewi Eme</p>
+        <p class="nimi">(tawa jan ale)</p>
+      </div>
+      <p>kute ala kute?</p>
+
+      <div class="poki-nimi">
+        <p class="nimi">jan ale</p>
+        <p class="nimi"></p>
+      </div>
+      <p>kute!</p>
+
+      <div class="poki-nimi">
+        <p class="nimi">sewi Eme</p>
+        <p class="nimi">(tawa sina ale)</p>
+      </div>
+      <p>kute ala kute?</p>
+
+      <div class="poki-nimi">
+        <p class="nimi">sina ale</p>
+        <p class="nimi"></p>
+      </div>
+      <p>kute!</p>
+
+      <div class="poki-nimi">
+        <p class="nimi">sewi Eme</p>
+        <p class="nimi"></p>
+      </div>
+      <p>o kute!</p>
+      <p>n...</p>
+
+      <div class="poki-nimi">
+        <p class="nimi">jan ale</p>
+        <p class="nimi"></p>
+      </div>
+      <p>n...</p>
+
+      <div class="poki-nimi">
+        <p class="nimi">sewi Eme</p>
+        <p class="nimi">(sama ilo tawa linja)</p>
+      </div>
+      <p>n, n...</p>
+
+      <div class="poki-nimi">
+        <p class="nimi">jan ale</p>
+        <p class="nimi"></p>
+      </div>
+      <p>n, n...</p>
+
+      <div class="poki-nimi">
+        <p class="nimi">sewi Eme</p>
+        <p class="nimi"></p>
+      </div>
+      <p>tawa tawa tawa tawa tawa tawa tawa tawa</p>
+
+      <div class="poki-nimi">
+        <p class="nimi">jan ale</p>
+        <p class="nimi"></p>
+      </div>
+      <p>tawa tawa tawa tawa tawa tawa tawa tawa</p>
+
+      <div class="poki-nimi">
+        <p class="nimi">sewi Eme</p>
+        <p class="nimi"></p>
+      </div>
+      <p>tenpo weka ni la, nasin tawa li lon.</p>
+
+      <div class="poki-nimi">
+        <p class="nimi">jan ale</p>
+        <p class="nimi"></p>
+      </div>
+      <p>n...</p>
+
+      <div class="poki-nimi">
+        <p class="nimi">sewi Eme</p>
+        <p class="nimi"></p>
+      </div>
+      <p>o alasa ala e sona namako.</p>
+
+      <div class="poki-nimi">
+        <p class="nimi">jan ale</p>
+        <p class="nimi"></p>
+      </div>
+      <p>n...</p>
+
+      <div class="poki-nimi">
+        <p class="nimi">sewi Eme</p>
+        <p class="nimi"></p>
+      </div>
+      <p>ma ni li poka moli. tenpo lete a. ma ni li ma sewi... pi jan kin.</p>
+      <p>toki majuna.</p>
+
+      <div class="poki-nimi">
+        <p class="nimi">jan ale</p>
+        <p class="nimi"></p>
+      </div>
+      <p>toki majuna!</p>
+
+      <div class="poki-nimi">
+        <p class="nimi">sewi Eme</p>
+        <p class="nimi"></p>
+      </div>
+      <p>toki majuna tan weka ni. toki majuna.</p>
+
+      <div class="poki-nimi">
+        <p class="nimi">jan ale</p>
+        <p class="nimi"></p>
+      </div>
+      <p>toki majuna!</p>
+
+      <div class="poki-nimi">
+        <p class="nimi">sewi Eme</p>
+        <p class="nimi"></p>
+      </div>
+      <p>taso mi toki ona sin.</p>
+      <p>sewi en jan. sina kute ala kute? mi pana e sona pi jan sewi mute!</p>
+      <p>
+        nasin pi tawa moli lon ma ni la, sewi tu wan pi sama len li lon, li kalama
+        lon monsi monsi pi lawa sina. o sona e sewi Mola!
+      </p>
+
+      <p class="lipu">(sewi Mola li lukin e sina.)</p>
+
+      <div class="poki-nimi">
+        <p class="nimi">sewi Eme</p>
+        <p class="nimi"></p>
+      </div>
+      <p>
+        nasin pi tawa moli lon ma ni la, sewi ni li kama e tenpo seli, li kama tan
+        ilo tawa linja: sewi Pasepone!
+      </p>
+
+      <p class="lipu">(sewi Pasepone li lukin e sina.)</p>
+
+      <div class="poki-nimi">
+        <p class="nimi">sewi Eme</p>
+        <p class="nimi"></p>
+      </div>
+      <p>sina tawa la,</p>
+
+      <div class="poki-nimi">
+        <p class="nimi">jan ale</p>
+        <p class="nimi"></p>
+      </div>
+      <p>tawa la!</p>
+
+      <div class="poki-nimi">
+        <p class="nimi">sewi Eme</p>
+        <p class="nimi"></p>
+      </div>
+      <p>lon ilo tawa la,</p>
+
+      <div class="poki-nimi">
+        <p class="nimi">jan ale</p>
+        <p class="nimi"></p>
+      </div>
+      <p>tawa la!</p>
+
+      <div class="poki-nimi">
+        <p class="nimi">sewi Eme</p>
+        <p class="nimi"></p>
+      </div>
+      <p>
+        sina tawa lon ilo tawa linja tawa ma pimeja pi suno lape, la sina ken alasa e
+        sewi lawa, e sewi wawa Ate!
+      </p>
+
+      <p class="lipu">(sewi Ate li lukin e sina.)</p>
+
+      <div class="poki-nimi">
+        <p class="nimi">sewi Eme</p>
+        <p class="nimi"></p>
+      </div>
+      <p>sewi ante li lon ala lon? a! mi sona e wan namako:</p>
+      <p>
+        lon nasin moli la, sewi ni li ken tawa pona a e sina tawa moli. ni kepeken
+        len waso. ni li sewi Eme, li mi!
+      </p>
+      <p>
+        o sona: jan wan o toki e toki ni pi ale ken. ken la, ni la, ale li pona, lon
+        nasin ni, lon tenpo weka.
+      </p>
+      <p>pini ike.</p>
+
+      <div class="poki-nimi">
+        <p class="nimi">jan ale</p>
+        <p class="nimi"></p>
+      </div>
+      <p>pini ike!</p>
+
+      <div class="poki-nimi">
+        <p class="nimi">sewi Eme</p>
+        <p class="nimi"></p>
+      </div>
+      <p>pini ike li lon toki ni. pini ike.</p>
+
+      <div class="poki-nimi">
+        <p class="nimi">jan ale</p>
+        <p class="nimi"></p>
+      </div>
+      <p>pini ike!</p>
+
+      <div class="poki-nimi">
+        <p class="nimi">sewi Eme</p>
+        <p class="nimi"></p>
+      </div>
+      <p>taso, mi awen toki ni.</p>
+
+      <div class="poki-nimi">
+        <p class="nimi"></p>
+        <p class="nimi"></p>
+      </div>
+      <p></p>
+
+      <div class="poki-nimi">
+        <p class="nimi"></p>
+        <p class="nimi"></p>
+      </div>
+      <p></p>
+
+      <div class="poki-nimi">
+        <p class="nimi"></p>
+        <p class="nimi"></p>
+      </div>
+      <p></p>
+
+      <div class="poki-nimi">
+        <p class="nimi"></p>
+        <p class="nimi"></p>
+      </div>
+      <p></p>
+
+      <div class="poki-nimi">
+        <p class="nimi"></p>
+        <p class="nimi"></p>
+      </div>
+      <p></p>
+
+      <div class="poki-nimi">
+        <p class="nimi"></p>
+        <p class="nimi"></p>
+      </div>
+      <p></p>
+
+      <div class="poki-nimi">
+        <p class="nimi"></p>
+        <p class="nimi"></p>
+      </div>
+      <p></p>
+
+      <div class="poki-nimi">
+        <p class="nimi"></p>
+        <p class="nimi"></p>
+      </div>
+      <p></p>
+
+      <div class="poki-nimi">
+        <p class="nimi"></p>
+        <p class="nimi"></p>
+      </div>
+      <p></p>
+
+      <div class="poki-nimi">
+        <p class="nimi"></p>
+        <p class="nimi"></p>
+      </div>
+      <p></p>
+
+      <div class="poki-nimi">
+        <p class="nimi"></p>
+        <p class="nimi"></p>
+      </div>
+      <p></p>
+
+      <div class="poki-nimi">
+        <p class="nimi"></p>
+        <p class="nimi"></p>
+      </div>
+      <p></p>
+
+      <div class="poki-nimi">
+        <p class="nimi"></p>
+        <p class="nimi"></p>
+      </div>
+      <p></p>
+
+      <div class="poki-nimi">
+        <p class="nimi"></p>
+        <p class="nimi"></p>
+      </div>
+      <p></p>
+    </div>
+  </div>
 </body>
