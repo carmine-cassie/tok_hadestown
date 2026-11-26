@@ -24,10 +24,10 @@ mi toki pona e nimi jan tan toki Greek. (nasin kalama nasa pi toki Inli li weka 
 | `02` | Any Way the Wind Blows | kon li ken e ni taso | 67/67 (100%)|
 | `03` | Come Home With Me | o olin e mi | 45/45 (100%)|
 | `04` | Wedding Song | kalama olin | 57/57 (100%)|
-| `05` | Epic I | open kalama | 0/53 (0%)|
-| `06` | Livin' it Up on Top | | 0/120 (0%)|
-| `07` | All I've Ever Known | | 0/55 (0%)|
-| `08` | Way Down Hadestown | | 0/105 (0%)|
+| `05` | Epic I | open kalama | 8/53 (15%)|
+| `06` | Livin' it Up on Top | | 0/117 (0%)|
+| `07` | All I've Ever Known | | 7/55 (12%)|
+| `08` | Way Down Hadestown | | 8/105 (7%)|
 | `09` | A Gathering Storm | |  |
 | `10` | Epic II | pali kalama |  |
 | `11` | Chant | |  |
