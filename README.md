@@ -20,16 +20,16 @@ mi toki pona e nimi jan tan toki Greek. (nasin kalama nasa pi toki Inli li weka 
 
 | nanpa | toki Inli | toki pona | pini |
 | --- | --- | --- | --- |
-| `01` | Road to Hell | | 108/108 (100%)|
-| `02` | Any Way the Wind Blows | | 67/67 (100%)|
-| `03` | Come Home With Me | | 45/45 (100%)|
-| `04` | Wedding Song | | 57/57 (100%)|
-| `05` | Epic I | |  |
-| `06` | Livin' it Up on Top | |  |
-| `07` | All I've Ever Known | |  |
-| `08` | Way Down Hadestown | |  |
+| `01` | Road to Hell | nasin pi tawa moli | 108/108 (100%)|
+| `02` | Any Way the Wind Blows | kon li ken e ni taso | 67/67 (100%)|
+| `03` | Come Home With Me | o olin e mi | 45/45 (100%)|
+| `04` | Wedding Song | kalama olin | 57/57 (100%)|
+| `05` | Epic I | open kalama | 0/53 (0%)|
+| `06` | Livin' it Up on Top | | 0/120 (0%)|
+| `07` | All I've Ever Known | | 0/55 (0%)|
+| `08` | Way Down Hadestown | | 0/105 (0%)|
 | `09` | A Gathering Storm | |  |
-| `10` | Epic II | |  |
+| `10` | Epic II | pali kalama |  |
 | `11` | Chant | |  |
 | `12` | Hey, Little Songbird | |  |
 | `13` | When the Chips are Down | |  |
@@ -38,14 +38,14 @@ mi toki pona e nimi jan tan toki Greek. (nasin kalama nasa pi toki Inli li weka 
 | `16` | Why We Build the Wall | |  |
 | `17` | Our Lady of the Underground | |  |
 | `18` | Way Down Hadestown II | |  |
-| `19` | Flowers | |  |
+| `19` | Flowers | kasi |  |
 | `20` | Come Home With Me II | |  |
-| `21` | Papers | |  |
+| `21` | Papers | lipu |  |
 | `22` | Nothing Changes | |  |
 | `23` | If it's True | |  |
 | `24` | How Long? | |  |
 | `25` | Chant II | |  |
-| `26` | Epic III | |  |
+| `26` | Epic III | pini kalama |  |
 | `27` | Promises | |  |
 | `28` | Word to the Wise | |  |
 | `29` | His Kiss, the Riot | |  |
