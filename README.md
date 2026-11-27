@@ -25,7 +25,7 @@ mi toki pona e nimi jan tan toki Greek. (nasin kalama nasa pi toki Inli li weka 
 | `03` | Come Home With Me | o olin e mi | 45/45 (100%)|
 | `04` | Wedding Song | kalama olin | 57/57 (100%)|
 | `05` | Epic I | open kalama | 14/53 (26%)|
-| `06` | Livin' it Up on Top | | 14/117 (11%)|
+| `06` | Livin' it Up on Top | | 40/117 (34%)|
 | `07` | All I've Ever Known | | 7/55 (12%)|
 | `08` | Way Down Hadestown | | 34/105 (32%)|
 | `09` | A Gathering Storm | |  |
